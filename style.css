@@ -1,0 +1,24 @@
+.wrapper {
+    max-width: 1280px;
+    margin: auto;
+    width: 90%;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tags{
+   display: flex;
+   gap: 60px;
+   justify-content: center;
+   list-style: none;
+}
+.tags a:link{
+    font: 600;
+    text-decoration: none;
+    font-size: x-large;
+    color: black;
+    font-family: sans-serif;
+}
