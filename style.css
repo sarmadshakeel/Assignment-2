@@ -1,69 +1,103 @@
 .wrapper {
-    max-width: 1280px;
-    margin: auto;
-    width: 90%;
+   max-width: 1280px;
+   margin: auto;
+   width: 90%;
 }
 
 .navbar {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
 }
-.tags{
+
+.tags {
    display: flex;
    gap: 60px;
    justify-content: center;
    list-style: none;
 }
-.tags a:link{
-    font: 600;
-    text-decoration: none;
-    font-size: x-large;
-    color: black;
-    font-family: sans-serif;
+
+.tags a:link {
+   font: 600;
+   text-decoration: none;
+   font-size: x-large;
+   color: black;
+   font-family: sans-serif;
 }
-.main{
-  margin-top: 30px;
+
+.main {
+   margin-top: 30px;
 }
-#first{
-    width: 33%;
+
+#first {
+   width: 33%;
 }
-#second{
-    font-family: monospace;
-    width: 26%;
+
+#second {
+   font-family: monospace;
+   width: 26%;
 }
-.main-img{
-    margin-top: 40px;
+
+.main-img {
+   margin-top: 40px;
 }
-.main-img img{
+
+.main-img img {
    width: 100%;
    height: 50%;
 }
- .hr-1{
-    width: 52%;
-    padding: 1px;
-    background-color: black;
-}
- .main-content{
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
- }
- .name{
-    margin-left: 20px;
- }
- .img2{
-    margin-left: 290px;
- }
 
- .para1{
-    line-height: 32px;
-    width: 54%;
-    font-size: 25px;
- }
- .para2{
-    margin-top: 35px;
-    line-height: 32px;
-    width: 58%;
-    font-size: 25px;
- }
+.hr-1 {
+   width: 52%;
+   padding: 1px;
+   background-color: black;
+}
+
+.main-content {
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+}
+
+.name {
+   margin-left: 20px;
+}
+
+.img2 {
+   margin-left: 290px;
+}
+
+.para-1 p{
+   width: 52%;
+   font-size: 24px;
+   text-align: justify;
+}
+
+.main-content2 h2 {
+   position: relative;
+   left: -211px;
+   font-size: 1.8rem;
+   font-family: sans-serif;
+}
+
+.para-2 p{
+   width: 52%;
+   font-size: 24px;
+   text-align: justify;
+}
+.img1 img{
+   width: 70%;
+}
+.image-para p{
+   text-align: center;
+   font-family: monospace;
+   width: 34%;
+}
+.para-3{
+   margin-top: 40px;
+}
+.para-3 p{
+   width: 52%;
+    font-size: 24px;
+    text-align: justify;
+}
