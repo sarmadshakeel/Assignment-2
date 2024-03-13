@@ -161,3 +161,72 @@
 span{
    text-decoration: underline;
 }
+.hr-2{
+   width: 53%;
+   margin-top: 30px;
+}
+.log-cont{
+   display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.log {
+   margin-top: 24px;
+}
+.one{
+   font-weight: 900;
+   text-decoration: none;
+}
+.cont{
+   width: 47%;
+    font-size: 20px;
+    text-align: justify;
+    font-family: sans-serif;
+}
+.line-img{
+   margin-top: 80px;
+}
+.im-1 img{
+   width: 100%;
+}
+.im-2{
+   bottom: 35px;
+   position: relative;
+   display: flex;
+   justify-content: center;
+}
+.image-grid{
+   display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 75%;
+    
+}
+h2{
+   font-size: xxx-large;
+   margin-top: 30px;
+    font-weight: bold;
+}
+.grid-1 p{
+   width: 46%;
+   font-weight: 600;
+}
+.grid-2 p{
+   width: 55%;
+   font-weight: 600;
+}
+.grid-3 p{
+   width: 58%;
+   font-weight: 700;
+}
+.grid-4 p{
+   width: 57%;
+    font-weight: 600;
+}
+.grid-5 p{
+   width: 59%;
+    font-weight: 600;
+}
+.grid-6 p{
+   width: 58%;
+   font-weight: 600;
+}
