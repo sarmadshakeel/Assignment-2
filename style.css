@@ -67,7 +67,7 @@
    margin-left: 290px;
 }
 
-.para-1 p{
+.para-1 p {
    width: 52%;
    font-size: 24px;
    text-align: justify;
@@ -80,24 +80,84 @@
    font-family: sans-serif;
 }
 
-.para-2 p{
+.para-2 p {
    width: 52%;
    font-size: 24px;
    text-align: justify;
 }
-.img1 img{
+
+.img1 img {
    width: 70%;
 }
-.image-para p{
+
+.image-para p {
    text-align: center;
    font-family: monospace;
    width: 34%;
 }
-.para-3{
+
+.para-3 {
    margin-top: 40px;
 }
-.para-3 p{
+
+.para-3 p {
    width: 52%;
-    font-size: 24px;
-    text-align: justify;
+   font-size: 24px;
+   text-align: justify;
+}
+
+.para-list {
+   margin-top: 55px;
+}
+
+.para-list ul li {
+   width: 53%;
+   text-align: justify;
+   font-size: 27px;
+   line-height: 2.7rem;
+}
+
+.para-list p {
+   width: 52%;
+   text-align: justify;
+   font-size: 27px;
+}
+
+.para-4 {
+   margin-top: 50px;
+}
+
+.para-4 p {
+   width: 52%;
+   text-align: justify;
+   font-size: 25px;
+}
+
+.para-4 h5 {
+   width: 52%;
+   font-size: 25px;
+   font-weight: 400;
+   text-align: justify;
+}
+
+.logos {
+   margin-top: 80px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   justify-content: space-evenly;
+   width: 52%;
+   border: 1px solid #EAEAEA;
+   border-radius: 4px;
+   padding: 10px;
+   box-shadow: 0px 1px 4px 0px #00000014;
+}
+.para-5 p{
+   text-align: justify;
+    width: 54%;
+    margin-top: 27px;
+    font-family: sans-serif;
+}
+span{
+   text-decoration: underline;
 }
